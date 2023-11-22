@@ -1,4 +1,4 @@
-# Ultroid Userbot
+#Userbot
 # 2020 Copyright (c)
 
 # Animation Plugin

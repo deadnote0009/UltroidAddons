@@ -1,4 +1,4 @@
-# Ultroid Userbot
+#Userbot
 # <https://github.com/deadnote0009/UltroidbotAddons/tree/main/imdb.py>
 
 """
