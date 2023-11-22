@@ -1,6 +1,6 @@
 # Ultroid - UserBot
 #
-# This file is a part of < https://github.com/TeamUltroid/UltroidAddons/>
+# This file is a part of < https://github.com/deadnote0009/UltroidbotAddons/>
 
 """
 Fetch Random anime quotes

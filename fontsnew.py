@@ -1,7 +1,7 @@
 #
 # Credits @chewmo
 #
-# Ported for Ultroid < https://github.com/TeamUltroid/Ultroid >
+# Ported for Ultroid < https://github.com/deadnote0009/Ultroidbot >
 #
 
 """

@@ -1,5 +1,5 @@
 # Made by : @Hackintush || github.com/ToxygenX
-# Made For : https://github.com/TeamUltroid/UltroidAddons
+# Made For : https://github.com/deadnote0009/UltroidbotAddons
 
 """
 ✘ Commands Available

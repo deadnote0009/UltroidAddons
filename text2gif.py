@@ -1,5 +1,5 @@
 # " Made by @e3ris for Ultroid "
-# < https://github.com/TeamUltroid/Ultroid >
+# < https://github.com/deadnote0009/Ultroidbot >
 # This Plugin uses @Text2gifBot.
 
 """

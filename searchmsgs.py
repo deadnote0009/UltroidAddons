@@ -1,5 +1,5 @@
 # " Made by @e3ris for Ultroid. "
-# < https://github.com/TeamUltroid/Ultroid >
+# < https://github.com/deadnote0009/Ultroidbot >
 # idea: https://t.me/TelethonChat/256160
 
 
